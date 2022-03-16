@@ -1,12 +1,13 @@
-Hi 👋, I'm Jackson
-A passionate Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Jackson</h1>
 
-🔭 I’m currently loooking for a developer opportunity
+<h3>A passionate Full-Stack Developer</h3>
 
-🌱 I’m currently learning Angular and advanced ASP.NET MVC
+- 🔭 I’m currently loooking for a developer opportunity
 
-💬 Connect with me on <a href="https://www.linkedin.com/in/jacksonvarghesedev/" rel="nofollow">LinkedIn</a></p>
+- 🌱 I’m currently learning Angular and advanced ASP.NET MVC
 
-📫 Reach me at <a href="mailto:jackson@jacksonvarghese.com">jackson@jacksonvarghese.com</a>
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/jacksonvarghesedev/" rel="nofollow">LinkedIn</a></p>
 
-⚡ Fun fact: I used to work in automation and infrastructure
+- 📫 Reach me at <a href="mailto:jackson@jacksonvarghese.com">jackson@jacksonvarghese.com</a>
+
+- ⚡ Fun fact: I used to work in automation and infrastructure
