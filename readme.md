@@ -2,9 +2,9 @@
 
 <h3>A passionate Full-Stack Developer</h3>
 
-- 🔭 I’m currently loooking for a developer opportunity
+- 🔭 I’m currently loooking for a developer opportunity - GOT THAT
 
-- 🌱 I’m currently learning Angular and advanced ASP.NET MVC
+- 🌱 I’m currently learning Angular and advanced ASP.NET MVC - DONE THAT
 
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jacksonvarghesedev/" rel="nofollow">LinkedIn</a></p>
 
